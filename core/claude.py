@@ -5,7 +5,7 @@ from types import SimpleNamespace
 
 # class Claude:
 #     def __init__(self, model: str):
-#         self.client = Anthropic(api_key="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",base_url="https://openrouter.ai/api/v1/chat/completions")
+#         self.client = Anthropic()
 #         self.model = model
 
 #     def add_user_message(self, messages: list, message):
